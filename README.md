@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mcoria
+- 👋 Hi, I’m Mauricio Coria
 - 👀 I’m interested in DevOps, IA
 - 🌱 I’m currently learning Python
 - 📫 You can reach me https://www.linkedin.com/in/coriamauricio/
